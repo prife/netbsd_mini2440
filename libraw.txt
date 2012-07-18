@@ -1,0 +1,1083 @@
+======== ./lib.txt =======
+======== ./usr/bin/more =======
+
+Dynamic section at offset 0x1c728 contains 19 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libcurses.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [libterminfo.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000c (INIT)                       0x9098
+ 0x0000000d (FINI)                       0x1f63c
+ 0x00000004 (HASH)                       0x8158
+ 0x00000005 (STRTAB)                     0x8ab4
+ 0x00000006 (SYMTAB)                     0x8474
+ 0x0000000a (STRSZ)                      802 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x2c7e8
+ 0x00000002 (PLTRELSZ)                   584 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8e50
+ 0x00000011 (REL)                        0x8dd8
+ 0x00000012 (RELSZ)                      120 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./usr/bin/gunzip =======
+
+Dynamic section at offset 0x71e4 contains 20 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libz.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [libbz2.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [liblzma.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000c (INIT)                       0x8fdc
+ 0x0000000d (FINI)                       0xdfe4
+ 0x00000004 (HASH)                       0x8138
+ 0x00000005 (STRTAB)                     0x89cc
+ 0x00000006 (SYMTAB)                     0x83cc
+ 0x0000000a (STRSZ)                      845 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x172ac
+ 0x00000002 (PLTRELSZ)                   584 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8d94
+ 0x00000011 (REL)                        0x8d1c
+ 0x00000012 (RELSZ)                      120 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./usr/bin/tar =======
+
+Dynamic section at offset 0x48f20 contains 21 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [librt.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.6]
+ 0x0000000c (INIT)                       0x8049e28
+ 0x0000000d (FINI)                       0x807f65c
+ 0x6ffffef5 (GNU_HASH)                   0x80481ac
+ 0x00000005 (STRTAB)                     0x8048e6c
+ 0x00000006 (SYMTAB)                     0x804825c
+ 0x0000000a (STRSZ)                      1978 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x8091ff4
+ 0x00000002 (PLTRELSZ)                   1392 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x80498b8
+ 0x00000011 (REL)                        0x8049888
+ 0x00000012 (RELSZ)                      48 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x6ffffffe (VERNEED)                    0x80497a8
+ 0x6fffffff (VERNEEDNUM)                 2
+ 0x6ffffff0 (VERSYM)                     0x8049626
+ 0x00000000 (NULL)                       0x0
+======== ./usr/bin/tset =======
+
+Dynamic section at offset 0x2c5c contains 18 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libterminfo.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000c (INIT)                       0x8ae0
+ 0x0000000d (FINI)                       0xa944
+ 0x00000004 (HASH)                       0x8138
+ 0x00000005 (STRTAB)                     0x8710
+ 0x00000006 (SYMTAB)                     0x82e0
+ 0x0000000a (STRSZ)                      504 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x12d14
+ 0x00000002 (PLTRELSZ)                   336 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8990
+ 0x00000011 (REL)                        0x8908
+ 0x00000012 (RELSZ)                      136 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./usr/bin/gzip =======
+
+Dynamic section at offset 0x71e4 contains 20 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libz.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [libbz2.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [liblzma.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000c (INIT)                       0x8fdc
+ 0x0000000d (FINI)                       0xdfe4
+ 0x00000004 (HASH)                       0x8138
+ 0x00000005 (STRTAB)                     0x89cc
+ 0x00000006 (SYMTAB)                     0x83cc
+ 0x0000000a (STRSZ)                      845 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x172ac
+ 0x00000002 (PLTRELSZ)                   584 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8d94
+ 0x00000011 (REL)                        0x8d1c
+ 0x00000012 (RELSZ)                      120 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./usr/bin/gzcat =======
+
+Dynamic section at offset 0x71e4 contains 20 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libz.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [libbz2.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [liblzma.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000c (INIT)                       0x8fdc
+ 0x0000000d (FINI)                       0xdfe4
+ 0x00000004 (HASH)                       0x8138
+ 0x00000005 (STRTAB)                     0x89cc
+ 0x00000006 (SYMTAB)                     0x83cc
+ 0x0000000a (STRSZ)                      845 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x172ac
+ 0x00000002 (PLTRELSZ)                   584 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8d94
+ 0x00000011 (REL)                        0x8d1c
+ 0x00000012 (RELSZ)                      120 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./usr/bin/sed =======
+
+Dynamic section at offset 0x5440 contains 17 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000c (INIT)                       0x8a58
+ 0x0000000d (FINI)                       0xcde8
+ 0x00000004 (HASH)                       0x8138
+ 0x00000005 (STRTAB)                     0x86d4
+ 0x00000006 (SYMTAB)                     0x82d4
+ 0x0000000a (STRSZ)                      457 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x154f0
+ 0x00000002 (PLTRELSZ)                   320 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8918
+ 0x00000011 (REL)                        0x88a0
+ 0x00000012 (RELSZ)                      120 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./usr/bin/ftp =======
+
+Dynamic section at offset 0x1efa4 contains 19 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libedit.so.3]
+ 0x00000001 (NEEDED)                     Shared library: [libterminfo.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000c (INIT)                       0x9b58
+ 0x0000000d (FINI)                       0x221ec
+ 0x00000004 (HASH)                       0x8138
+ 0x00000005 (STRTAB)                     0x9094
+ 0x00000006 (SYMTAB)                     0x85f4
+ 0x0000000a (STRSZ)                      1459 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x2f064
+ 0x00000002 (PLTRELSZ)                   1160 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x96d0
+ 0x00000011 (REL)                        0x9648
+ 0x00000012 (RELSZ)                      136 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./usr/sbin/chroot =======
+
+Dynamic section at offset 0x1118 contains 17 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000c (INIT)                       0x8760
+ 0x0000000d (FINI)                       0x8fc8
+ 0x00000004 (HASH)                       0x8138
+ 0x00000005 (STRTAB)                     0x8508
+ 0x00000006 (SYMTAB)                     0x8278
+ 0x0000000a (STRSZ)                      333 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x111c8
+ 0x00000002 (PLTRELSZ)                   152 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x86c8
+ 0x00000011 (REL)                        0x8658
+ 0x00000012 (RELSZ)                      112 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./file.txt =======
+======== ./listlib.py =======
+======== ./bin/chmod =======
+
+Dynamic section at offset 0x1120 contains 18 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8748
+ 0x0000000d (FINI)                       0x8ff4
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x84f0
+ 0x00000006 (SYMTAB)                     0x8270
+ 0x0000000a (STRSZ)                      341 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x111d8
+ 0x00000002 (PLTRELSZ)                   152 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x86b0
+ 0x00000011 (REL)                        0x8648
+ 0x00000012 (RELSZ)                      104 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./bin/cat =======
+
+Dynamic section at offset 0x19dc contains 18 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x87ac
+ 0x0000000d (FINI)                       0x98e4
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x8540
+ 0x00000006 (SYMTAB)                     0x8280
+ 0x0000000a (STRSZ)                      332 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x11a94
+ 0x00000002 (PLTRELSZ)                   176 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x86fc
+ 0x00000011 (REL)                        0x868c
+ 0x00000012 (RELSZ)                      112 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./bin/sh =======
+
+Dynamic section at offset 0x1fe44 contains 20 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libedit.so.3]
+ 0x00000001 (NEEDED)                     Shared library: [libterminfo.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x97bc
+ 0x0000000d (FINI)                       0x24a08
+ 0x00000004 (HASH)                       0x8154
+ 0x00000005 (STRTAB)                     0x8ed0
+ 0x00000006 (SYMTAB)                     0x85b0
+ 0x0000000a (STRSZ)                      1210 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x2ff0c
+ 0x00000002 (PLTRELSZ)                   928 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x941c
+ 0x00000011 (REL)                        0x938c
+ 0x00000012 (RELSZ)                      144 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./bin/ls =======
+
+Dynamic section at offset 0x4878 contains 19 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libutil.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8c50
+ 0x0000000d (FINI)                       0xc664
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x87d4
+ 0x00000006 (SYMTAB)                     0x8364
+ 0x0000000a (STRSZ)                      644 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x14938
+ 0x00000002 (PLTRELSZ)                   392 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8ac8
+ 0x00000011 (REL)                        0x8a58
+ 0x00000012 (RELSZ)                      112 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./bin/rm =======
+
+Dynamic section at offset 0x1f58 contains 18 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8a5c
+ 0x0000000d (FINI)                       0x9df0
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x86a8
+ 0x00000006 (SYMTAB)                     0x82c8
+ 0x0000000a (STRSZ)                      516 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x12010
+ 0x00000002 (PLTRELSZ)                   328 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8914
+ 0x00000011 (REL)                        0x88ac
+ 0x00000012 (RELSZ)                      104 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./bin/ln =======
+
+Dynamic section at offset 0x1200 contains 18 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x875c
+ 0x0000000d (FINI)                       0x9104
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x8504
+ 0x00000006 (SYMTAB)                     0x8274
+ 0x0000000a (STRSZ)                      333 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x112b8
+ 0x00000002 (PLTRELSZ)                   160 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x86bc
+ 0x00000011 (REL)                        0x8654
+ 0x00000012 (RELSZ)                      104 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./bin/dd =======
+
+Dynamic section at offset 0x5344 contains 20 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libutil.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [librumpclient.so.0]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8ae0
+ 0x0000000d (FINI)                       0xc49c
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x86d0
+ 0x00000006 (SYMTAB)                     0x82d0
+ 0x0000000a (STRSZ)                      584 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x1540c
+ 0x00000002 (PLTRELSZ)                   344 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8988
+ 0x00000011 (REL)                        0x8918
+ 0x00000012 (RELSZ)                      112 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./bin/pwd =======
+
+Dynamic section at offset 0xc7c contains 18 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x85f8
+ 0x0000000d (FINI)                       0x8bdc
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x8414
+ 0x00000006 (SYMTAB)                     0x8204
+ 0x0000000a (STRSZ)                      282 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x10d34
+ 0x00000002 (PLTRELSZ)                   96 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8598
+ 0x00000011 (REL)                        0x8530
+ 0x00000012 (RELSZ)                      104 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./bin/ps =======
+
+Dynamic section at offset 0x6dc8 contains 20 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libm.so.0]
+ 0x00000001 (NEEDED)                     Shared library: [libkvm.so.6]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8f80
+ 0x0000000d (FINI)                       0xe420
+ 0x00000004 (HASH)                       0x8154
+ 0x00000005 (STRTAB)                     0x89ac
+ 0x00000006 (SYMTAB)                     0x83dc
+ 0x0000000a (STRSZ)                      825 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x16e90
+ 0x00000002 (PLTRELSZ)                   544 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8d60
+ 0x00000011 (REL)                        0x8ce8
+ 0x00000012 (RELSZ)                      120 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./bin/stty =======
+
+Dynamic section at offset 0x3f14 contains 18 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8a44
+ 0x0000000d (FINI)                       0xae08
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x86a8
+ 0x00000006 (SYMTAB)                     0x82c8
+ 0x0000000a (STRSZ)                      490 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x13fcc
+ 0x00000002 (PLTRELSZ)                   304 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8914
+ 0x00000011 (REL)                        0x8894
+ 0x00000012 (RELSZ)                      128 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./bin/mkdir =======
+
+Dynamic section at offset 0xf6c contains 18 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x873c
+ 0x0000000d (FINI)                       0x8ea8
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x84f0
+ 0x00000006 (SYMTAB)                     0x8270
+ 0x0000000a (STRSZ)                      330 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x11024
+ 0x00000002 (PLTRELSZ)                   144 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x86ac
+ 0x00000011 (REL)                        0x863c
+ 0x00000012 (RELSZ)                      112 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./bin/cp =======
+
+Dynamic section at offset 0x3200 contains 18 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8d4c
+ 0x0000000d (FINI)                       0xadf4
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x8888
+ 0x00000006 (SYMTAB)                     0x8388
+ 0x0000000a (STRSZ)                      641 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x132b8
+ 0x00000002 (PLTRELSZ)                   472 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8b74
+ 0x00000011 (REL)                        0x8b0c
+ 0x00000012 (RELSZ)                      104 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./bin/sync =======
+
+Dynamic section at offset 0x8b8 contains 18 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x846c
+ 0x0000000d (FINI)                       0x8844
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x8338
+ 0x00000006 (SYMTAB)                     0x81d8
+ 0x0000000a (STRSZ)                      195 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x10970
+ 0x00000002 (PLTRELSZ)                   24 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8454
+ 0x00000011 (REL)                        0x83fc
+ 0x00000012 (RELSZ)                      88 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./bin/df =======
+
+Dynamic section at offset 0x2414 contains 19 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libutil.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8894
+ 0x0000000d (FINI)                       0x9f28
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x85a4
+ 0x00000006 (SYMTAB)                     0x8294
+ 0x0000000a (STRSZ)                      423 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x124d4
+ 0x00000002 (PLTRELSZ)                   216 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x87bc
+ 0x00000011 (REL)                        0x874c
+ 0x00000012 (RELSZ)                      112 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./bin/mv =======
+
+Dynamic section at offset 0x1d64 contains 18 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8a30
+ 0x0000000d (FINI)                       0x9b0c
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x8694
+ 0x00000006 (SYMTAB)                     0x82c4
+ 0x0000000a (STRSZ)                      499 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x11e1c
+ 0x00000002 (PLTRELSZ)                   320 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x88f0
+ 0x00000011 (REL)                        0x8888
+ 0x00000012 (RELSZ)                      104 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./etc/master.passwd =======
+======== ./etc/group =======
+======== ./etc/netconfig =======
+======== ./etc/services =======
+======== ./etc/protocols =======
+======== ./etc/disktab =======
+======== ./sbin/shutdown =======
+
+Dynamic section at offset 0x2ffc contains 18 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8d04
+ 0x0000000d (FINI)                       0xaab4
+ 0x00000004 (HASH)                       0x8154
+ 0x00000005 (STRTAB)                     0x886c
+ 0x00000006 (SYMTAB)                     0x839c
+ 0x0000000a (STRSZ)                      631 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x130b4
+ 0x00000002 (PLTRELSZ)                   416 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8b64
+ 0x00000011 (REL)                        0x8ae4
+ 0x00000012 (RELSZ)                      128 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/mount_nfs =======
+
+Dynamic section at offset 0x2f9c contains 19 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libutil.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8c90
+ 0x0000000d (FINI)                       0xa678
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x87e8
+ 0x00000006 (SYMTAB)                     0x8368
+ 0x0000000a (STRSZ)                      680 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x1305c
+ 0x00000002 (PLTRELSZ)                   384 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8b10
+ 0x00000011 (REL)                        0x8a90
+ 0x00000012 (RELSZ)                      128 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/ping =======
+
+Dynamic section at offset 0x64ec contains 20 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libm.so.0]
+ 0x00000001 (NEEDED)                     Shared library: [libipsec.so.3]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8f40
+ 0x0000000d (FINI)                       0xd720
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x8964
+ 0x00000006 (SYMTAB)                     0x83b4
+ 0x0000000a (STRSZ)                      835 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x165b4
+ 0x00000002 (PLTRELSZ)                   528 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8d30
+ 0x00000011 (REL)                        0x8ca8
+ 0x00000012 (RELSZ)                      136 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/reboot =======
+
+Dynamic section at offset 0x14e4 contains 19 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libutil.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8880
+ 0x0000000d (FINI)                       0x9324
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x85a4
+ 0x00000006 (SYMTAB)                     0x8294
+ 0x0000000a (STRSZ)                      401 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x115a4
+ 0x00000002 (PLTRELSZ)                   224 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x87a0
+ 0x00000011 (REL)                        0x8738
+ 0x00000012 (RELSZ)                      104 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/newfs =======
+
+Dynamic section at offset 0xb2b8 contains 20 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libutil.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [libprop.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x91fc
+ 0x0000000d (FINI)                       0x11d2c
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x8b1c
+ 0x00000006 (SYMTAB)                     0x846c
+ 0x0000000a (STRSZ)                      966 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x1b380
+ 0x00000002 (PLTRELSZ)                   672 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8f5c
+ 0x00000011 (REL)                        0x8ee4
+ 0x00000012 (RELSZ)                      120 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/mount =======
+
+Dynamic section at offset 0x3214 contains 18 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8be8
+ 0x0000000d (FINI)                       0xa970
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x87d4
+ 0x00000006 (SYMTAB)                     0x8364
+ 0x0000000a (STRSZ)                      537 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x132cc
+ 0x00000002 (PLTRELSZ)                   392 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8a60
+ 0x00000011 (REL)                        0x89f0
+ 0x00000012 (RELSZ)                      112 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/mount_ffs =======
+
+Dynamic section at offset 0x120c contains 19 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libutil.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8730
+ 0x0000000d (FINI)                       0x8e30
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x84dc
+ 0x00000006 (SYMTAB)                     0x826c
+ 0x0000000a (STRSZ)                      345 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x112cc
+ 0x00000002 (PLTRELSZ)                   128 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x86b0
+ 0x00000011 (REL)                        0x8638
+ 0x00000012 (RELSZ)                      120 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/slattach =======
+
+Dynamic section at offset 0xfc4 contains 18 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x86f8
+ 0x0000000d (FINI)                       0x8eb4
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x84c8
+ 0x00000006 (SYMTAB)                     0x8268
+ 0x0000000a (STRSZ)                      319 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x1107c
+ 0x00000002 (PLTRELSZ)                   128 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8678
+ 0x00000011 (REL)                        0x8608
+ 0x00000012 (RELSZ)                      112 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/swapctl =======
+
+Dynamic section at offset 0x3254 contains 19 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libutil.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x89ec
+ 0x0000000d (FINI)                       0xab28
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x866c
+ 0x00000006 (SYMTAB)                     0x82bc
+ 0x0000000a (STRSZ)                      486 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x13314
+ 0x00000002 (PLTRELSZ)                   296 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x88c4
+ 0x00000011 (REL)                        0x8854
+ 0x00000012 (RELSZ)                      112 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/init =======
+
+Dynamic section at offset 0x442c contains 20 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libutil.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [libcrypt.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8f78
+ 0x0000000d (FINI)                       0xbb44
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x89a0
+ 0x00000006 (SYMTAB)                     0x83c0
+ 0x0000000a (STRSZ)                      815 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x144f4
+ 0x00000002 (PLTRELSZ)                   576 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8d38
+ 0x00000011 (REL)                        0x8cd0
+ 0x00000012 (RELSZ)                      104 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/mount_kernfs =======
+
+Dynamic section at offset 0xe9c contains 19 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libutil.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8600
+ 0x0000000d (FINI)                       0x8c18
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x8414
+ 0x00000006 (SYMTAB)                     0x8204
+ 0x0000000a (STRSZ)                      292 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x10f5c
+ 0x00000002 (PLTRELSZ)                   88 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x85a8
+ 0x00000011 (REL)                        0x8538
+ 0x00000012 (RELSZ)                      112 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/mknod =======
+
+Dynamic section at offset 0x2038 contains 18 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x88b8
+ 0x0000000d (FINI)                       0x9c98
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x85cc
+ 0x00000006 (SYMTAB)                     0x829c
+ 0x0000000a (STRSZ)                      404 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x120f0
+ 0x00000002 (PLTRELSZ)                   224 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x87d8
+ 0x00000011 (REL)                        0x8760
+ 0x00000012 (RELSZ)                      120 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/halt =======
+
+Dynamic section at offset 0x14e4 contains 19 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libutil.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8880
+ 0x0000000d (FINI)                       0x9324
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x85a4
+ 0x00000006 (SYMTAB)                     0x8294
+ 0x0000000a (STRSZ)                      401 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x115a4
+ 0x00000002 (PLTRELSZ)                   224 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x87a0
+ 0x00000011 (REL)                        0x8738
+ 0x00000012 (RELSZ)                      104 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/ifconfig =======
+
+Dynamic section at offset 0x11624 contains 20 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libutil.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [libprop.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x9708
+ 0x0000000d (FINI)                       0x155ec
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x8c98
+ 0x00000006 (SYMTAB)                     0x84b8
+ 0x0000000a (STRSZ)                      1741 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x216ec
+ 0x00000002 (PLTRELSZ)                   800 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x93e8
+ 0x00000011 (REL)                        0x9368
+ 0x00000012 (RELSZ)                      128 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/restore =======
+
+Dynamic section at offset 0x1029c contains 18 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x9434
+ 0x0000000d (FINI)                       0x15c3c
+ 0x00000004 (HASH)                       0x8154
+ 0x00000005 (STRTAB)                     0x8ccc
+ 0x00000006 (SYMTAB)                     0x84dc
+ 0x0000000a (STRSZ)                      952 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x20354
+ 0x00000002 (PLTRELSZ)                   824 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x90fc
+ 0x00000011 (REL)                        0x9084
+ 0x00000012 (RELSZ)                      120 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/fsck =======
+
+Dynamic section at offset 0x3508 contains 20 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libutil.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [libprop.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8c00
+ 0x0000000d (FINI)                       0xadf0
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x87d4
+ 0x00000006 (SYMTAB)                     0x8364
+ 0x0000000a (STRSZ)                      563 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x135d0
+ 0x00000002 (PLTRELSZ)                   384 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8a80
+ 0x00000011 (REL)                        0x8a08
+ 0x00000012 (RELSZ)                      120 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/disklabel =======
+
+Dynamic section at offset 0x87f0 contains 19 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libutil.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x9168
+ 0x0000000d (FINI)                       0xedf0
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x8af4
+ 0x00000006 (SYMTAB)                     0x8464
+ 0x0000000a (STRSZ)                      868 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x188b0
+ 0x00000002 (PLTRELSZ)                   664 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8ed0
+ 0x00000011 (REL)                        0x8e58
+ 0x00000012 (RELSZ)                      120 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/mount_msdos =======
+
+Dynamic section at offset 0x175c contains 19 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libutil.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8828
+ 0x0000000d (FINI)                       0x935c
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x8568
+ 0x00000006 (SYMTAB)                     0x8288
+ 0x0000000a (STRSZ)                      400 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x1181c
+ 0x00000002 (PLTRELSZ)                   192 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8768
+ 0x00000011 (REL)                        0x86f8
+ 0x00000012 (RELSZ)                      112 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/mount_mfs =======
+
+Dynamic section at offset 0xb2b8 contains 20 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libutil.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [libprop.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x91fc
+ 0x0000000d (FINI)                       0x11d2c
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x8b1c
+ 0x00000006 (SYMTAB)                     0x846c
+ 0x0000000a (STRSZ)                      966 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x1b380
+ 0x00000002 (PLTRELSZ)                   672 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8f5c
+ 0x00000011 (REL)                        0x8ee4
+ 0x00000012 (RELSZ)                      120 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/mount_cd9660 =======
+
+Dynamic section at offset 0x1284 contains 19 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libutil.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x872c
+ 0x0000000d (FINI)                       0x8ecc
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x84dc
+ 0x00000006 (SYMTAB)                     0x826c
+ 0x0000000a (STRSZ)                      344 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x11344
+ 0x00000002 (PLTRELSZ)                   128 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x86ac
+ 0x00000011 (REL)                        0x8634
+ 0x00000012 (RELSZ)                      120 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/umount =======
+
+Dynamic section at offset 0x197c contains 18 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x88e4
+ 0x0000000d (FINI)                       0x9800
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x85cc
+ 0x00000006 (SYMTAB)                     0x829c
+ 0x0000000a (STRSZ)                      447 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x11a34
+ 0x00000002 (PLTRELSZ)                   232 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x87fc
+ 0x00000011 (REL)                        0x878c
+ 0x00000012 (RELSZ)                      112 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/fsck_ffs =======
+
+Dynamic section at offset 0x1eb48 contains 20 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libutil.so.7]
+ 0x00000001 (NEEDED)                     Shared library: [libprop.so.1]
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8fb8
+ 0x0000000d (FINI)                       0x23ac4
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x89b4
+ 0x00000006 (SYMTAB)                     0x83c4
+ 0x0000000a (STRSZ)                      842 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x2ec10
+ 0x00000002 (PLTRELSZ)                   584 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x8d70
+ 0x00000011 (REL)                        0x8d00
+ 0x00000012 (RELSZ)                      112 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
+======== ./sbin/chown =======
+
+Dynamic section at offset 0x135c contains 18 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.12]
+ 0x0000000f (RPATH)                      Library rpath: [/lib]
+ 0x0000000c (INIT)                       0x8788
+ 0x0000000d (FINI)                       0x9220
+ 0x00000004 (HASH)                       0x8134
+ 0x00000005 (STRTAB)                     0x8518
+ 0x00000006 (SYMTAB)                     0x8278
+ 0x0000000a (STRSZ)                      352 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000015 (DEBUG)                      0x0
+ 0x00000003 (PLTGOT)                     0x11414
+ 0x00000002 (PLTRELSZ)                   168 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x86e0
+ 0x00000011 (REL)                        0x8678
+ 0x00000012 (RELSZ)                      104 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x00000000 (NULL)                       0x0
